@@ -37,4 +37,4 @@
 
 # Alternativly deploy an already created AMI
 
-1. the ami ami-000b34ad804b7becb has already been converted and ready to launch jumping straight to the lanch step above.
+1. the ami ami-000b34ad804b7becb is public has already been converted and ready to launch jumping straight to the lanch step above.
